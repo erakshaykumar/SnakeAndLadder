@@ -3,8 +3,7 @@ package com.blz.javaproject;
 public class SnakeAndLadder {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to Snake And Ladder");
-
+		int player1Position = 0;
 	}
 
 }
